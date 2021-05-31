@@ -238,7 +238,7 @@ public class UAController implements ActionListener{
 					String[] vAttr=vLine.split(",");
 					for(int i2=0;i2<j1;i2++) {
 						if(collList[i2].equals(vAttr[0])) {
-							Video v=new Video(this.thisID,vAttr[0],vAttr[1],vAttr[2],vAttr[3],vAttr[4],170,95,12,10);
+							Video v=new Video(this.thisID,vAttr[0],vAttr[1],vAttr[2],vAttr[3],vAttr[4],170,95);
 							collContentPanel.add(v.getPanel());
 						}
 					}
