@@ -52,7 +52,10 @@ The information entered into the textfields should follow:
 (8) You can click 'Update Account' button to update your account from 'Common' to 'Privilege'. However, if your account is already Privilege, 
      a message will generate for you reminding you that you have no need to upgrade.
 (9) Our gym will give you some badges as reward based on the content of your workout. You can click 'View My Badges' to view your badges.
-    When you have got a new badge, the system will also send you a notification, which you can see in the 'Notification' module.
+     When you have got a new badge, the system will also send you a notification, which you can see in the 'Notification' module.
+(10) The gym will calculate the total training time (i.e. the duration of all the videos you watched) as well as the total number of live sessions you
+     have attended, in order to check whether your rank has been upgraded. If your rank has been upgraded, you will receive a notification reminding
+     you of your new rank, which you can see in the 'Notification' module.
 
 4. User Homepage-Workout
 (1) Various workout videos are displayed here, including there names and types. Click the video image to start playing.
